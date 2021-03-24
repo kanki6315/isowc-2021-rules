@@ -1,13 +1,13 @@
-![logo](_images/vln-logo.png ':size=400')
+![logo](_images/league-logo.png ':size=400')
 
-# Winter-VLN 2020/2021 regulations
-*version: 2.0.1*
+# ISOWC 2021 regulations
+*version: 1.0.0*
 
-*last updated: 23rd October 2020*
+*last updated: 22nd March 2021*
 
 [Go to the regulations](#introduction)
 
 <!-- background image -->
-![](_images/SCO-2019_Spa_15.png)
+![](_images/coverImage.png)
 
 ![color](#018ecc)
