@@ -3,7 +3,7 @@
 # ISOWC 2021 regulations
 *version: 1.0.0*
 
-*last updated: 22nd March 2021*
+*last updated: 26th March 2021*
 
 [Go to the regulations](#introduction)
 

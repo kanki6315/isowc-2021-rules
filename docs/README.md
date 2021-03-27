@@ -1,7 +1,7 @@
 # Introduction
 The ISOWC Series’ aim is to foster close, competitive and friendly racing for drivers around the world. This rulebook ensures that all drivers uphold the ethos and principles of the ISOWC series at all times when engaging in series competition.
 
-This website will contain the regulations. A PDF version of these regulations is available on the official discord server. It is the responsibility of all drivers and Team Managers to read through these regulations and ensure full understanding of their contents. The Regulations apply to all sessions that are hosted by Race Control - including Free Practice sessions that might be hosted during race week.
+This website will contain the regulations. A PDF version of these regulations will be made available on the official discord server. It is the responsibility of all drivers and Team Managers to read through these regulations and ensure full understanding of their contents. The Regulations apply to all sessions that are hosted by Race Control - including Free Practice sessions that might be hosted during race week.
 
 
 ## Discord Server
