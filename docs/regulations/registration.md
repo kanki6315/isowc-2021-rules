@@ -1,10 +1,10 @@
 # 3. Registration & Website Procedures
 
 ## 3.1. Registering for the Series
-1. Registration for the series will open on the 5th of April at 3pm UTC on the official ISOWC Website.
+1. Registration for the series will open on the 3rd of April at 3pm UTC on the official ISOWC Website.
 2. Driver’s will need a Discord Account to login to the official ISOWC website. The only information needed while registering is your own customer ID and (if applicable), your Team Affiliation.
 3. Drivers are required to register themselves on the ISOWC website – team managers cannot do this for their drivers.
-4. Registration will be open for a 2 week window and will close on the 19th of April at 3pm UTC.
+4. Registration will be open for a 2 week window and will close on the 17th of April at 3pm UTC.
 5. At the conclusion of the registration window, the Admin team will review all registrations. 40 Drivers will be selected to the full-time roster for this series from the registered drivers.
 6. The ISOWC Organizers reserve the right to deny any entry. Drivers competing in the ISOWC are held to the same standard as WCS drivers in the community.
 7. After being invited to the series, drivers will be asked to pay a $25 entry fee for the series. Once the entry fee is paid, drivers are locked in to the full-time roster and will be invited to the iRacing League.

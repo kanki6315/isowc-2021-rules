@@ -49,9 +49,10 @@ remedy them as much as possible during this time. Drivers who consistently have 
 6. Any lap where a driver leaves the racing surface, as defined in section 5 will not have that lap counted, and in the event that this is their fastest lap, they will be liable to incur an End of Field grid penalty.
 7. Drivers in Road based qualifying must ensure that their actions on track do not impede other drivers unfairly, and for no reason. Examples of this include slowing down excessively to find a gap on track, or not providing room to other drivers on
 track who are on a flying lap whilst not on one personally Any driver caught infringing this will be liable to incur an End Of Field grid penalty or even exclusion from that race weekend.
-8. At certain Road tracks, Race Control may elect to split drivers into two groups of 20 cars. This will be announced ahead of time in the driver’s briefing.
-9. On road courses, drivers may qualify on either the primary or alternate tyre. For cars that qualify in the Top-10 (regardless of grid penalties that will be applied), they must use the same compound at the start of the race as they qualified on. All other cars have a free choice of tyre.
-10. At the conclusion of qualifying, Race Control will post the final results in the discord channel along with the grid for the race. Drivers must only join the 2nd session if they are included on the starting grid.
+8. At certain Road tracks, Race Control may elect to split drivers into two groups of 20 cars. This will be announced ahead of time in the driver’s briefing. Groups will be organized by the drivers championship standings. P1 will be assigned to Group 1, P2 to Group 2, P3 to Group 1 and etc. For race 1, the assignment will be random.
+9. If Race Control chooses to create two qualifying groups, the group that sets the fastest laptime will award pole position as well as set the grid for that specific column on the grid (this will either be the inside or outside depending on the track in use). The 2nd group will set the grid for the other column on the grid. Drivers will be bumped based on grid slots, not qualifying times. 
+10. On road courses, drivers may qualify on either the primary or alternate tyre. For cars that qualify in the Top-10 (regardless of grid penalties that will be applied), they must use the same compound at the start of the race as they qualified on. All other cars have a free choice of tyre.
+11. At the conclusion of qualifying, Race Control will post the final results in the discord channel along with the grid for the race. Drivers must only join the 2nd session if they are included on the starting grid.
 
 ## 4.5. Gridding and Race Start
 
