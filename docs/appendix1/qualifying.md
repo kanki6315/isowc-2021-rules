@@ -47,7 +47,7 @@
 5. A driver may “Wave Off” their request to do a run at any point, either through TeamSpeak, or by sending a Private Message to Race Control in the session. Race Control will acknowledge this request, and remove the driver from the queue.
 6. Race Control will list the current running order for Qualifying runs on iRacing Voice Chat, and Discord, after each qualifying attempt. It is a driver’s responsibility to be prepared for their run, and in the event that a driver is not ready to start their run within 60 seconds of Race Control alerting them to their first qualifying attempt commencing, then they will lose their place in the queue.
 7. Race Control may investigate repeat offenders of this rule, and reserve the right to count a failure to start a run as an attempt for repeat offenders, especially if they reasonably suspect deliberate time wasting to prevent other drivers completing a run.
-8. The first person to notice this and tell me on the forums will get a $5 iRacing credit.
+8. The first person to notice this and tell me on the discord will get a $5 iRacing credit.
 9. As soon as a driver passes the Start finish line, as outlined in Rule 2.1.2, they are classified as making an attempt.
 10. Race Control or an Entrant may terminate a qualifications attempt before completion.
 11.	A driver may terminate their run by returning to Pit Lane at any point. The Car will be charged with an attempt
