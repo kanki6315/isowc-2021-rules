@@ -18,7 +18,7 @@
 3. 2 points will be awarded to the driver who records the fastest lap in qualifying. This will normally be the driver who starts from Pole Position barring any penalties.
   1. A Driver having made an incident (Including a 0x contact) on their fastest qualifying lap will not have it counted by the iRacing software, and therefore said lap will not be eligible for Pole position, or fastest qualifying lap.
   2. Any lap where a driver leaves the racing surface, as defined in section 5 will not have that lap counted in relation to fastest qualifying lap scoring. In the event that 2 or more drivers share the fastest qualifying lap time, then 1 point will be awarded to each driver.
-4. 2 points will be awarded to the driver who records the fastest lap in the race, as determined by the iRacing results page. A Driver having made an incident (Including a 0x contact) on their fastest lap will not have it counted by the iRacing software, and therefore said lap will not be eligible for the fastest lap 
+4. 2 points will be awarded to the driver who records the fastest lap in the race, as determined by the iRacing results page. A Driver having made an incident (Including a 0x contact) on their fastest lap will not have it counted by the iRacing software, and therefore said lap will not be eligible for the fastest lap
   1. Laps driven after a penalty has been awarded, before the completion of said penalty will not have that lap counted in relation to fastest lap scoring.
   2. Any lap where a driver leaves the racing surface, as defined in section 5 will not have that lap counted in relation to fastest lap scoring.
   3. In the event that 2 or more drivers share the fastest lap time, then 1 point will be awarded to each driver.
@@ -80,3 +80,10 @@
 |     8th         |     15                   |
 |     9th         |     10                   |
 |     10th        |     5                    |
+
+## 7.4. Physical Prizes
+1. The winner of the ISOWC 2021 championship will win a custom 1/18 diecast of their Dallara IR-18 made by George Simmons.
+2. New for 2021 is a road course configuration model that is now the default white autograph diecast produced by the manufacturer. If the appropriate plain white oval diecast can also be sourced for no additional cost, the champion will be given the option to select road or oval configuration.
+3. At the conclusion of the season, the champion will be requested to send the PSD for their paint file. While it is possible to work from the TGA file, the PSD file will make it much easier to achieve an accurate replica of your car.
+4. Due to the time involved with producing this custom prize and potential delays associated with transforming the livery into the appropriate print files, delivery can not be guaranteed in 2021.
+5. Shipping to the recipient will be paid by the series. Any additional import fees are the responsibility of recipient.
