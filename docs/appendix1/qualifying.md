@@ -40,7 +40,7 @@
 
 ## 2.4. Qualifying Procedure (Bump Session)
 
-1. The session will be open for drivers 10 and lower on qualifying speed, after the results from the two initial sessions have been combined, as outlined in section 2.2.12.2.
+1. The session will be open for drivers 25th and higher on qualifying speed, after the results from the two initial sessions have been combined, as outlined in section 2.2.12.2.
 2. The first qualifying run will commence 15 minutes after the server opens, to allow time for drivers to enter, and for Race Control to complete their final preparations. Drivers may use these 15 minutes as a shakedown to run on track, in order to check their connection and hardware. A 5 minute warning will be given before the end of this 15 minute shakedown, and all drivers will be instructed to return to Pit Lane upon the completion of the 15 minutes.
 3. Drivers will be able to “Present Themselves” for runs throughout the session. Drivers wishing to present themselves will do so via Discord using an automated system. More instructions will be provided in the official Driver’s Briefing. Race Control will acknowledge this request, and place the driver in the queue for another attempt.
 4. A maximum of three qualification attempts per Car shall be permitted in the session, regardless of whether or not an attempt is run to completion.

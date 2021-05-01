@@ -14,8 +14,8 @@ remedy them as much as possible during this time. Drivers who consistently have 
 | Time (UTC)  | Description |
 | ----------- | ----------- |
 | 3:50pm      | Session 1 Live |
-| 5:00pm      | Driver’s Briefing |
-| 5:10pm      | Start of Road Qualifying |
+| 4:30pm      | Driver’s Briefing |
+| 4:55pm      | Start of Road Qualifying |
 | 5:20pm      | Start of Oval Qualifying |
 | 5:30pm      | End of Qualifying |
 | ~5:45pm     | Session 2 live |
@@ -42,17 +42,17 @@ remedy them as much as possible during this time. Drivers who consistently have 
 ## 4.4. Qualifying
 
 1. All Oval events will make use of Single Car (Lone) qualifying. All Road Events will make use of a timed, open qualification period.
-2. Oval events will comprise of 4 laps of qualifying, whilst road courses will comprise of a 20 minute open session, where drivers can complete as many laps as required.
+2. Oval events will comprise of 4 laps of qualifying, whilst road courses will comprise of a 35 minute open session, where drivers will be split into two groups with each group being allowed onto track for ~15 minutes.
 3. Text chat and voice chat will be disabled for Oval Based qualifying sessions.
 4. It is the responsibility of drivers entering or re-entering the server during qualifying must ensure that they can set a qualifying time within the allotted time period.
 5. Drivers failing to complete a qualifying run, will be scored in terms of championship points after all cars setting qualifying times.
 6. Any lap where a driver leaves the racing surface, as defined in section 5 will not have that lap counted, and in the event that this is their fastest lap, they will be liable to incur an End of Field grid penalty.
-7. Drivers in Road based qualifying must ensure that their actions on track do not impede other drivers unfairly, and for no reason. Examples of this include slowing down excessively to find a gap on track, or not providing room to other drivers on
-track who are on a flying lap whilst not on one personally Any driver caught infringing this will be liable to incur an End Of Field grid penalty or even exclusion from that race weekend.
-8. At certain Road tracks, Race Control may elect to split drivers into two groups of 20 cars. This will be announced ahead of time in the driver’s briefing. Groups will be organized by the drivers championship standings. P1 will be assigned to Group 1, P2 to Group 2, P3 to Group 1 and etc. For race 1, the assignment will be random.
-9. If Race Control chooses to create two qualifying groups, the group that sets the fastest laptime will award pole position as well as set the grid for that specific column on the grid (this will either be the inside or outside depending on the track in use). The 2nd group will set the grid for the other column on the grid. Drivers will be bumped based on grid slots, not qualifying times. 
+7. Drivers in Road based qualifying must ensure that their actions on track do not impede other drivers unfairly, and for no reason. Examples of this include slowing down excessively to find a gap on track, or not providing room to other drivers on track who are on a flying lap whilst not on one personally Any driver caught infringing this will be liable to incur an End Of Field grid penalty or even exclusion from that race weekend.
+8. At all Road tracks, Race Control will split drivers into two groups of 25 cars. Groups will be organized by the drivers championship standings. P1 will be assigned to Group 1, P2 to Group 2, P3 to Group 1 and etc. For race 1, the assignment will be random. The group that sets the fastest laptime will award pole position as well as set the grid for that specific column on the grid (this will either be the inside or outside depending on the track in use). The 2nd group will set the grid for the other column on the grid. Drivers will be bumped based on grid slots, not qualifying times.
+9. Each group will be permitted a 15-minute window to run on track. Once the chequered flag is announced by RC for a group, driver's will be permitted to finish the lap they are on before returning to the pitlane. There will be a 5 minute window between the chequered flag for group 1 and the green flag for green 2 to allow group 1 cars to return to the pit lane - cars in group 2 are permitted to line up and wait at pit exit until RC announces the green flag.
 10. On road courses, drivers may qualify on either the primary or alternate tyre. For cars that qualify in the Top-10 (regardless of grid penalties that will be applied), they must use the same compound at the start of the race as they qualified on. All other cars have a free choice of tyre.
 11. At the conclusion of qualifying, Race Control will post the final results in the discord channel along with the grid for the race. Drivers must only join the 2nd session if they are included on the starting grid.
+12. Cars may tow freely in road qualifying but must ensure not to impede drivers as described in 4.4.7.
 
 ## 4.5. Gridding and Race Start
 

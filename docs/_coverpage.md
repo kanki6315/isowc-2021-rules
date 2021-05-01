@@ -1,9 +1,9 @@
 ![logo](_images/league-logo.png ':size=400')
 
 # ISOWC 2021 regulations
-*version: 1.0.2*
+*version: 1.0.3*
 
-*last updated: 31st March 2021*
+*last updated: 30th April 2021*
 
 [Go to the regulations](#introduction)
 
