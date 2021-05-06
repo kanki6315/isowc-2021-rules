@@ -14,7 +14,7 @@
 
 
 
-## 20.2. Penalty Points
+## 10.2. Penalty Points
 1. Over the course of a season, drivers can accumulate penalty points for each penalty they receive. The accumulation of penalty points may result in additional penalties being applied to the driver, which are described in the table below.
 | Penalty Point Total | Action                                                                                                                                                                                                            |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
