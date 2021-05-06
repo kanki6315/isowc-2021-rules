@@ -1,5 +1,9 @@
 # Change log
 
+#### v1.0.4 - 5th May 2021
+1. Clarify rule on intentionally causing cautions, allowing RC to award penalties to any additional cars that would have benefitted from an intentional caution. (4.6.3)
+2. Added Section 10 - Penalty Structure
+
 #### v1.0.3 - 25th April 2021
 1. Update entry list to 50 drivers (3.3.5)
 2. Update qualifying group sizes for a 50 car entry list & clarify qualifying procedure (4.1.8 & 4.4.7)

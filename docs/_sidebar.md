@@ -12,6 +12,7 @@
     - [7. Points and Championships](regulations/championship.md)
     - [8. Series Schedule](regulations/schedule.md)
     - [9. Broadcast & Social Media](regulations/broadcast.md)
+    - [10. Penalty Structure & Penalty Points](regulations/penalties.md)
 
 - Appendix I: ISOWC 500 Supplementary Rulebook
     - [1. Introduction](appendix1/isowc500intro.md)
