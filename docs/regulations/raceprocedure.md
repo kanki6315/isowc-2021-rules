@@ -80,7 +80,7 @@ remedy them as much as possible during this time. Drivers who consistently have 
 12. Once a driver applies throttle on a restart, he should continue to do so in a consistent manner unless either attempting to recover from wheel-spin, or to avoid colliding "Running into" a driver in front.
 13. Drivers should time the application of the throttle on a restart to ensure that they have no need to "Check Up", forcing a concertina effect behind them. Drivers failing to observe this rule may be issued a penalty for reckless driving.
 
-##4.7. Pit Stops
+## 4.7. Pit Stops
 
 1. Drivers wishing to pit should announce to other drivers on the server their intentions, on the lap that they are pitting.
 2. Drivers should safely enter Pit Lane at all times, in a manner that does not force drivers to change their normal racing line.
