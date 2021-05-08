@@ -1,5 +1,8 @@
 # Change log
 
+#### v1.0.5 - 7th May 2021
+1. Update practice/qualifying session start time to 3:30pm UTC (4.1.8 & 8.2.2)
+
 #### v1.0.4 - 5th May 2021
 1. Clarify rule on intentionally causing cautions, allowing RC to award penalties to any additional cars that would have benefitted from an intentional caution. (4.6.3)
 2. Added Section 10 - Penalty Structure

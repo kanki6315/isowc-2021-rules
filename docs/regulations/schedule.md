@@ -17,7 +17,7 @@
 ## 8.2. Raceday Schedule
 
 1. The aim of this section is to summarize the raceday schedule for drivers as described in full detail in Section 4 of these rules.
-2. All regular season races will have a practice + qualifying sessions will go live at 3:50pm UTC, with qualifying ending at 5:30pm UTC.
+2. All regular season races will have a practice + qualifying sessions will go live at 3:30pm UTC, with qualifying ending at 5:30pm UTC.
 3. Before Qualifying, Race Control will have a drivers briefing that begins at 5pm UTC. This is mandatory for drivers and will take place in the official Discord server
 4. At the conclusion of the qualifying session, Race Control will post the full qualifying results and starting grid for the race in the official Discord server. Drivers must only join the 2nd session of the weekend if they are included on the starting grid for the race.
 5. The race session will go live at 5:45pm UTC with 10 minutes of warmup. The grid will be pre-set by Race Control and all cars will have a full 2 minutes to grid -there will be a manual grid hold in place.

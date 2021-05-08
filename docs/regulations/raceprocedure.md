@@ -13,7 +13,7 @@ remedy them as much as possible during this time. Drivers who consistently have 
 8. All regular rounds of the championship will follow this schedule on Race Day:
 | Time (UTC)  | Description |
 | ----------- | ----------- |
-| 3:50pm      | Session 1 Live |
+| 3:30pm      | Session 1 Live |
 | 4:30pm      | Driver’s Briefing |
 | 4:55pm      | Start of Road Qualifying |
 | 5:20pm      | Start of Oval Qualifying |
