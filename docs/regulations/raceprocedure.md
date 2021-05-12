@@ -94,7 +94,7 @@ remedy them as much as possible during this time. Drivers who consistently have 
   2. This will normally be where a double line merges into a single, or there is no line.
   3. In the event that there is no clear evidence to define a merge point, one will be assigned by Race Control, and reported to drivers at least 24 hours before the race through weekly communication.
   4. A Driver who merges onto the track before this point, will be awarded a 15 Second Stop- Go Penalty, regardless of time gained in doing so.
-6. Drivers may only use a maximum of 3 pit boxes when entering and exiting their pit stall. Drivers that use additional pit boxes will be assessed a Drive Through Penalty.
+~~6. Drivers may only use a maximum of 3 pit boxes when entering and exiting their pit stall. Drivers that use additional pit boxes will be assessed a Drive Through Penalty.~~
 7. On road courses, driver’s must use both compounds of tyres for at least one complete lap in the race.
 
 ## 4.8. Incidents and Towing

@@ -1,5 +1,8 @@
 # Change log
 
+#### v1.0.6 - 12th May 2021
+1. Rescind Pit Box Rules during pitstops (4.6.13)
+
 #### v1.0.5 - 7th May 2021
 1. Update practice/qualifying session start time to 3:30pm UTC (4.1.8 & 8.2.2)
 
