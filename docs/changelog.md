@@ -1,5 +1,9 @@
 # Change log
 
+#### v1.0.7 - 28th May 2021
+1. Updated race weekend times (4.1.8 & 8.2.3)
+2. Update qualifying such that towing results in drivers being unable to continue in the session (4.4.12 + 4.4.13)
+
 #### v1.0.6 - 12th May 2021
 1. Rescind Pit Box Rules during pitstops (4.6.13)
 

@@ -13,11 +13,11 @@ remedy them as much as possible during this time. Drivers who consistently have 
 8. All regular rounds of the championship will follow this schedule on Race Day:
 | Time (UTC)  | Description |
 | ----------- | ----------- |
-| 3:30pm      | Session 1 Live |
-| 4:30pm      | Driver’s Briefing |
-| 4:55pm      | Start of Road Qualifying |
-| 5:20pm      | Start of Oval Qualifying |
-| 5:30pm      | End of Qualifying |
+| 3:15pm      | Session 1 Live |
+| 4:15pm      | Driver’s Briefing |
+| 4:40pm      | Start of Road Qualifying |
+| 5:10pm      | Start of Oval Qualifying |
+| 5:15pm      | End of Qualifying |
 | ~5:45pm     | Session 2 live |
 | 5:55pm      | Race session is advanced – additional pacing laps will be applied |
 | 6:00pm      | Green Flag |
@@ -32,7 +32,7 @@ remedy them as much as possible during this time. Drivers who consistently have 
 
 ## 4.3. Practice
 
-1.	Each official race session will commence with a 90 minute practice for Oval races and 80 minutes for Road Races. This is a chance for drivers to join the server, and finalise their preparations for the race.
+1.	Each official race session will commence with a 110 minute practice for Oval races and 80 minutes for Road Races. This is a chance for drivers to join the server, and finalise their preparations for the race.
 2.	It will be assumed that drivers will have completed sufficient practice in test sessions and other means to be able to drive safely, and in an appropriate manner, to ensure safe and fair competition within the series. Drivers driving in an unsafe manner, or adversely affecting the enjoyment and safe racing of others will be warned, and asked to test further before re-joining the session. Drivers failing to comply with this will be removed from the server, and will score zero points for that race.
 3.	Drivers exiting Pit Lane are required to follow the natural pit exit lane, and join the track in a safe manner after the pit exit merges with the main track.
 4.	Drivers should maintain a steady race speed throughout the practice session, and not slow down un-necessarily.
@@ -47,12 +47,13 @@ remedy them as much as possible during this time. Drivers who consistently have 
 4. It is the responsibility of drivers entering or re-entering the server during qualifying must ensure that they can set a qualifying time within the allotted time period.
 5. Drivers failing to complete a qualifying run, will be scored in terms of championship points after all cars setting qualifying times.
 6. Any lap where a driver leaves the racing surface, as defined in section 5 will not have that lap counted, and in the event that this is their fastest lap, they will be liable to incur an End of Field grid penalty.
-7. Drivers in Road based qualifying must ensure that their actions on track do not impede other drivers unfairly, and for no reason. Examples of this include slowing down excessively to find a gap on track, or not providing room to other drivers on track who are on a flying lap whilst not on one personally Any driver caught infringing this will be liable to incur an End Of Field grid penalty or even exclusion from that race weekend.
+7. Drivers in Road based qualifying must ensure that their actions on track do not impede other drivers unfairly, and for no reason. Examples of this include slowing down excessively to find a gap on track, or not providing room to other drivers on track who are on a flying lap whilst not on one personally. Any driver caught infringing this will be liable to incur an End Of Field grid penalty or even exclusion from that race weekend.
 8. At all Road tracks, Race Control will split drivers into two groups of 25 cars. Groups will be organized by the drivers championship standings. P1 will be assigned to Group 1, P2 to Group 2, P3 to Group 1 and etc. For race 1, the assignment will be random. The group that sets the fastest laptime will award pole position as well as set the grid for that specific column on the grid (this will either be the inside or outside depending on the track in use). The 2nd group will set the grid for the other column on the grid. Drivers will be bumped based on grid slots, not qualifying times.
 9. Each group will be permitted a 15-minute window to run on track. Once the chequered flag is announced by RC for a group, driver's will be permitted to finish the lap they are on before returning to the pitlane. There will be a 5 minute window between the chequered flag for group 1 and the green flag for green 2 to allow group 1 cars to return to the pit lane - cars in group 2 are permitted to line up and wait at pit exit until RC announces the green flag.
 10. On road courses, drivers may qualify on either the primary or alternate tyre. For cars that qualify in the Top-10 (regardless of grid penalties that will be applied), they must use the same compound at the start of the race as they qualified on. All other cars have a free choice of tyre.
 11. At the conclusion of qualifying, Race Control will post the final results in the discord channel along with the grid for the race. Drivers must only join the 2nd session if they are included on the starting grid.
-12. Cars may tow freely in road qualifying but must ensure not to impede drivers as described in 4.4.7.
+12. Cars that require a tow to return to pit lane are not permitted to return to track for the remainder of the qualifying session. Drivers that are involved in multi-car accidents and were unable to avoid an already occurring incident may request to be released back onto track. Drivers that are deemed as causing an accident will not be permitted to return to track and may be assessed an additional penalty by Race Control.
+13. At all times during qualifying, drivers must maintain reasonable speed. This is especially important on in and out laps to avoid impeding cars as described in 4.4.7.
 
 ## 4.5. Gridding and Race Start
 
