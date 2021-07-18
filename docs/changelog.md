@@ -1,5 +1,8 @@
 # Change log
 
+#### v1.0.8 - 17th July 2021
+1. Add 2.1.7 to ISOWC 500 qualifying regulations mandating a minimum time on outlaps
+
 #### v1.0.7 - 28th May 2021
 1. Updated race weekend times (4.1.8 & 8.2.3)
 2. Update qualifying such that towing results in drivers being unable to continue in the session (4.4.12 + 4.4.13)

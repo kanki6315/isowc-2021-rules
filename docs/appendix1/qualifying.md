@@ -8,6 +8,7 @@
 2.1.4.	A driver will complete their 4 laps, receive the chequered flag from race control, and then may slow their car down to a complete stop at any point afterwards. They do NOT need to return their car to Pit Road.
 2.1.5.	In the event that a driver crashes their car during any run, they will be eligible to use a virtual Spare/T car to complete any further runs. A driver crashing this car will be able to take no further part in the session in question. Drivers crashing both of their cars in a single session will be able to make use of ONE car in following sessions leading up to the race. It will be assumed that this car is rebuilt after each session, to preserve the ability for drivers to race.
 2.1.6.	It is a driver’s responsibility to ensure that all their equipment, including their internet connection, works correctly before completing a qualifying run. In the event that a driver generates a 0.00.000 lap time due to connection issues, the run will not count, and they will lose a qualifying run attempt.
+2.1.7 Drivers are permitted 60s on their outlap of any qualifying run. This timer will begin once the driver crosses the cones on pit exit. Driver's that take longer than 60s will be waved off and must return to pit lane on the warm up lap.
 
 ## 2.2. Qualifying Procedure (Pole Day Sessions 1 & 2)
 
