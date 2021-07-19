@@ -9,6 +9,8 @@
 2.1.5.	In the event that a driver crashes their car during any run, they will be eligible to use a virtual Spare/T car to complete any further runs. A driver crashing this car will be able to take no further part in the session in question. Drivers crashing both of their cars in a single session will be able to make use of ONE car in following sessions leading up to the race. It will be assumed that this car is rebuilt after each session, to preserve the ability for drivers to race.
 2.1.6.	It is a driver’s responsibility to ensure that all their equipment, including their internet connection, works correctly before completing a qualifying run. In the event that a driver generates a 0.00.000 lap time due to connection issues, the run will not count, and they will lose a qualifying run attempt.
 2.1.7 Drivers are permitted 60s on their outlap of any qualifying run. This timer will begin once the driver crosses the cones on pit exit. Driver's that take longer than 60s will be waved off and must return to pit lane on the warm up lap.
+2.1.8 Drivers are required to maintain a minimum speed of 200mph on their warmup lap. Any driver that dips below this speed will be waved off by Race Control and not permitted to begin their 4 lap run.
+2.1.9 If at any time, Race Control believes a driver is deliberately wasting time by violating rules 2.1.7 or 2.1.8 in order to preserve their spot in the qualifying results, Race Control will count the run as an attempt, removing the current time from the qualifying classifications.
 
 ## 2.2. Qualifying Procedure (Pole Day Sessions 1 & 2)
 

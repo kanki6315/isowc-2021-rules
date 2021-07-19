@@ -1,5 +1,9 @@
 # Change log
 
+#### v1.0.9 - 18th July 2021
+1. Add 2.1.8 to ISOWC 500 qualifying regulations mandating a minimum time on warmup lap
+2. Add 2.1.9 to explicitly state that drivers violating 2.1.7 and 2.1.8 in order to preserve their place in the field may have their run classified as an attempt, removing their existing time
+
 #### v1.0.8 - 17th July 2021
 1. Add 2.1.7 to ISOWC 500 qualifying regulations mandating a minimum time on outlaps
 
