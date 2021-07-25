@@ -33,4 +33,4 @@
 
 1.	The ISOWC 500 will make use of both dynamic and static weather.
 2.	Qualifying Sessions will utilize static skies, a set track state and fixed weather settings chosen by Race Control and communicated to all teams 2 weeks before the ISOWC 500 Qualifying. All sessions will be setup in the same configuration to minimize variance across sessions.
-3.	Practice & Race Sessions will utilize dynamic weather. This will be done by using a pre-set date & time when generating the iRacing session, and using the “Dynamic Weather” functionality that iRacing provides.
+3.	Practice & Race Sessions will utilize static skies but dynamic weather. This will be done by using a static weather seed and a pre-set date & time when generating the iRacing session, and using the “Dynamic Skies" functionality that iRacing provides.
